@@ -1,0 +1,46 @@
+
+
+a{
+
+    color:green;
+    
+
+}
+a:hover{
+
+
+    color:red;
+    text-decoration:none;
+
+}
+
+
+
+/*footer*/
+
+
+.socials{
+
+    list-style: none;
+}
+
+.socials li{
+
+
+    display:inline;
+
+}
+
+.socials li a{
+
+    background:blue;
+
+}
+
+.resume header::before{
+
+        display:block;
+        height:100%;
+
+
+}
